@@ -57,15 +57,6 @@ Desenvolvi um pipeline utilizando Python para:
 
 ---
 
-## 🚀 Como executar
-
-```bash
-# Exemplo (ajusta conforme seu projeto)
-python main.py
-```
-
----
-
 ## 📌 Observação
 
 Projeto baseado em experiência prática com dados operacionais, focado em resolver problemas reais de consistência e integração de dados.
